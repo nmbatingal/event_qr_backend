@@ -1,0 +1,16 @@
+annotated-types==0.5.0
+asgiref==3.7.2
+Django==4.2.3
+django-extensions==3.2.3
+django-qr-code==3.1.1
+djangorestframework==3.14.0
+mysqlclient==2.2.0
+pydantic==2.1.1
+pydantic_core==2.4.0
+python-decouple==3.8
+python-dotenv==1.0.0
+pytz==2023.3
+segno==1.5.2
+sqlparse==0.4.4
+typing_extensions==4.7.1
+tzdata==2023.3
